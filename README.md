@@ -5,3 +5,4 @@ A simple Python tool to detect file tampering using SHA-256 hashing.
 1. Open PowerShell.
 2. Run: `python integrity_check.py init .\your_log_folder`
 3. Check for tampering: `python integrity_check.py check .\your_log_folder`
+4. Project URL: https://roadmap.sh/projects/file-integrity-checker
